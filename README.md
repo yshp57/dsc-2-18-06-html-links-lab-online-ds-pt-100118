@@ -17,7 +17,6 @@ new link element to `https://flatironschool.com`.
 
 You can run the tests with this lab via `learn` in the "terminal" of the in-browser IDE. Make sure you save the file before running the test suite. Failing tests will provide helpful error messages that you can use to debug your code — read them closely for hints!
 
-
 ## Viewing Your Work in the Browser
 
 While working through these assignments, your general workflow should center on
